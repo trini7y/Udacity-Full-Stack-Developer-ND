@@ -16,7 +16,7 @@ In this project I applied the knowledge learnt, which includes.
 ## Trivia API 
 ##### (https://github.com/trini7y/Udacity-Full-Stack-Developer-ND/tree/master/Trivia)
 
-his is a quiz game application for learning about some educational topics 
+This is a quiz game application for learning about some educational topics 
 
 
 In this project, the application of creating a secure and fast API and the ability to structure plan, implement, and test an API was applied. 
